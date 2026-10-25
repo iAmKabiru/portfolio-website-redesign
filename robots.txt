@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kabiru.net/sitemap.xml
